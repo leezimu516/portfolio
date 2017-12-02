@@ -2,6 +2,19 @@ body {
   padding-top: 54px;
 }
 
+.img-project-thumbnail {
+    max-height: 142px;
+}
+
+.logo-thumbnail {
+    max-height: 30px;
+    max-width: 30px;
+}
+
+small {
+    font-size: 50%;
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
