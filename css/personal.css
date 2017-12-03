@@ -20,6 +20,11 @@ body {
     max-width: 30px;
 }
 
+hr { 
+    display: block;
+    border-width: 3px;
+    border-color: black;
+} 
 
 small {
     font-size: 50%;
