@@ -4,7 +4,6 @@ body {
 
 .img-project-thumbnail {
     max-height: 142px;
-
     box-shadow: 5px 5px 25px 0px rgba(46,61,73,0.2);
     background: #fff;
     border-radius: 0.275rem;
