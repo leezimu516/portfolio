@@ -14,3 +14,8 @@ It is built by CSS, Html, and BootStrap framework.
 ## How to run
 - clone this repo, and open index.html
 - Or open this [link](https://leezimu516.github.io/portfolio/)
+
+## Resource
+- Inspired by this [template](https://startbootstrap.com/template-overviews/portfolio-item/)
+- [Remodal JS](https://github.com/vodkabears/Remodal)
+
